@@ -1,4 +1,4 @@
-# 👋👽 Hi, I'm Enrique Orrantia
+# 👋 Hi, I'm Enrique Orrantia
 
 I'm an indie software developer who enjoys creating tools to simplify everyday life tasks.
 
