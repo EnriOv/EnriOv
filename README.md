@@ -27,8 +27,7 @@ Welcome to the profile of a software developer who loves building and learning n
 
 ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriOv&show_icons=true&theme=aura_dark)
 
-###
-
-<img src="https://raw.githubusercontent.com/EnriOv/EnriOv/output/snake.svg" alt="Snake animation" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ###
