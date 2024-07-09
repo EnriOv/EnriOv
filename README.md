@@ -24,9 +24,9 @@ Welcome to the profile of a software developer who loves building and learning n
 ### 📊 Stats
 
 ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriOv&show_icons=true&theme=aura_dark)
-<p style="align=center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-orrantia-viesca-87a60118b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enriorrantia)
-</p>
+
 
 ###
 
