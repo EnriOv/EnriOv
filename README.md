@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Enrique Orrantia
 
-I'm an indie software developer who enjoys creating tools to simplify everyday life tasks.
-
-#
+Welcome to the profile of a software developer who loves building and learning new things.  Follow me on my journey of continuous improvement and creating random things.
 
 ### 🧰 Languages and Tools
 
@@ -26,3 +24,12 @@ I'm an indie software developer who enjoys creating tools to simplify everyday l
 ### 📊 Stats
 
 ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriOv&show_icons=true&theme=aura_dark)
+<p style="align=center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-orrantia-viesca-87a60118b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enriorrantia)
+</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/EnriOv/EnriOv/output/snake.svg" alt="Snake animation" />
+
+###
