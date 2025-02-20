@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Enrique Orrantia
 
-I am an embedded systems and full-stack developer focused on creating innovative IoT solutions that optimize operations and improve user experiences. Driven by curiosity and a multi-passionate approach, I continuously explore new areas like smart cities and smart agriculture to broaden my knowledge and skills. With a commitment to continuous learning and improvement, my goal is to deliver valuable technology and software solutions that help businesses enhance efficiency and growth.
+I am a multi-passionate software engineer specializing in embedded systems development. My expertise lies in creating efficient and reliable software for complex, resource-constrained environments, particularly in the automotive industry.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-orrantia-viesca-87a60118b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enriorrantia)
+While embedded development is my core focus, I also explore areas like IoT and full-stack development, which allow me to broaden my skills and tackle a wider range of challenges. My passion for technology drives me to continuously learn and innovate, seeking out new ways to apply my skills to solve real-world problems.
+
+My goal is to create impactful software solutions that enhance processes, drive innovation, and help businesses thrive in an increasingly connected world.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-orrantia-viesca-87a60118b/)
 
 ### 🧰 Languages and Tools
 
